@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuckjimu.github.io</id>
     <title>积木盒子难友之家</title>
-    <updated>2020-05-03T05:00:53.204Z</updated>
+    <updated>2020-05-06T06:47:15.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuckjimu.github.io"/>
     <link rel="self" href="https://fuckjimu.github.io/atom.xml"/>
     <logo>https://fuckjimu.github.io/images/avatar.png</logo>
     <icon>https://fuckjimu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 积木盒子难友之家</rights>
+    <entry>
+        <title type="html"><![CDATA[20200506]]></title>
+        <id>https://fuckjimu.github.io/post/20200506/</id>
+        <link href="https://fuckjimu.github.io/post/20200506/">
+        </link>
+        <updated>2020-05-06T06:20:02.000Z</updated>
+        <content type="html"><![CDATA[<p>1、本文没有标题<br>
+2、还有人在看这个网站吗<br>
+3、绝大多数人都抱着搭车的想法<br>
+4、没想搭车的这些难友，80%压根儿没脑子、10%心怀鬼胎<br>
+5、没有官方公告，什么都不要信，你也可以说包括我和这个网站<br>
+6、目前唯一可以依靠的就是司法系统<br>
+7、我始终感到绝望，不是因为对手的强大，而是因为队友实在过于……<br>
+8、面对不搭车但确实没脑子的这些难友，我实在太累了<br>
+9、我始终不想骗人、不想利用这些没脑子的人，哪怕是善意的、对所有难友最终结果积极正向的<br>
+10、其实一切都远没有想象的那么糟</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20200427关于积木盒子的最新情况]]></title>
         <id>https://fuckjimu.github.io/post/20200427fuckjimu01/</id>
